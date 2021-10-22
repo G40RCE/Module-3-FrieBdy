@@ -91,7 +91,7 @@ class HomePage2 extends StatelessWidget {
                         Icon(Icons.download),
                       ])
                 ]))),
-        ////2nd Tweet
+        //2nd 
         Card(
             child: ListTile(
                 title: Text(
@@ -118,7 +118,7 @@ class HomePage2 extends StatelessWidget {
                       ])
                 ]))),
 
-        ////3rd Tweet
+        //3rd 
         Card(
             child: ListTile(
                 title: Text(
@@ -143,7 +143,7 @@ class HomePage2 extends StatelessWidget {
                         Icon(Icons.share),
                       ])
                 ]))),
-        ////4th Tweet
+        //4th 
         Card(
             child: ListTile(
                 title: Text(
@@ -168,7 +168,7 @@ class HomePage2 extends StatelessWidget {
                         Icon(Icons.share),
                       ])
                 ]))),
-        ////5th Tweet
+        //5th 
         Card(
             child: ListTile(
                 title: Text(
@@ -193,7 +193,7 @@ class HomePage2 extends StatelessWidget {
                         Icon(Icons.share),
                       ])
                 ]))),
-        ////6th Tweet
+        //6th 
         Card(
             child: ListTile(
                 title: Text(
@@ -219,7 +219,7 @@ class HomePage2 extends StatelessWidget {
                         Icon(Icons.share),
                       ])
                 ]))),
-        ////7th Tweet
+        //7th 
         Card(
             child: ListTile(
                 title: Text(
